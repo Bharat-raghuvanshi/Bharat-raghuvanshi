@@ -64,7 +64,9 @@
 
 ### Skills 🚀{Learning}
 - Python
-- Linux Administration 
+- Linux Administration
+- Shell Scripting
+- Database Security
 - Cybersecurity Fundamentals
 - Ethical Hacking
 - Networking Basics
