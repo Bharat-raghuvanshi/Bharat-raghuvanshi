@@ -63,9 +63,9 @@
 ### Certifications
 - [Introduction to Cybersecurity Tools and Cyber Attacks](https://coursera.org/share/b5a8049100bff25529ab13e67f83affd) - Coursera
 
-### Skills 🚀
+### Skills 🚀{Learning}
 - Python
-- Linux Administration
+- Linux Administration 
 - Cybersecurity Fundamentals
 - Ethical Hacking
 - Networking Basics
@@ -75,7 +75,7 @@ I'm currently focusing on expanding my knowledge in cybersecurity, including lea
 
 [![CEH](https://img.shields.io/badge/CEH-%23000000.svg?style=for-the-badge&logo=CEH&logoColor=00FF00&A7C7E7=00FF00)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 [![OSCP](https://img.shields.io/badge/OSCP-%23000000.svg?style=for-the-badge&logo=Offensive%20Security&logoColor=00FF00&A7C7E7=00FF00)](https://www.offensive-security.com)
-[![CISSP](https://img.shields.io/badge/CISSP-%23000000.svg?style=for-the-badge&logo=CISSP&logoColor=00FF00&A7C7E7=00FF00)](https://www.isc2.org/Certifications/CISSP)
+[![OSCP](https://img.shields.io/badge/OSCP-%23000000.svg?style=for-the-badge&logo=OSCP&logoColor=00FF00&A7C7E7=00FF00)](https://www.offsec.com/courses/pen-200/)
 
 ### Personal ID
 
