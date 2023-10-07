@@ -47,7 +47,6 @@
 
 [![HackerOne](https://img.shields.io/badge/HackerOne-%23000000.svg?style=for-the-badge&logo=HackerOne&logoColor=00FF00)](https://www.hackerone.com/n16h7h4wk_07)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23000000.svg?style=for-the-badge&logo=TryHackMe&logoColor=00FF00)](https://www.tryhackme.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=00FF00)](https://leetcode.com)
 [![PicoCTF](https://img.shields.io/badge/PicoCTF-%23000000.svg?style=for-the-badge&logo=PicoCTF&logoColor=00FF00)](https://picoctf.com)
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-%23000000.svg?style=for-the-badge&logo=Bugcrowd&logoColor=00FF00)](https://www.bugcrowd.com)
 
@@ -75,7 +74,7 @@ I'm currently focusing on expanding my knowledge in cybersecurity, including lea
 
 [![CEH](https://img.shields.io/badge/CEH-%23000000.svg?style=for-the-badge&logo=CEH&logoColor=00FF00&A7C7E7=00FF00)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 [![OSCP](https://img.shields.io/badge/OSCP-%23000000.svg?style=for-the-badge&logo=Offensive%20Security&logoColor=00FF00&A7C7E7=00FF00)](https://www.offensive-security.com)
-[![OSCP](https://img.shields.io/badge/OSCP-%23000000.svg?style=for-the-badge&logo=OSCP&logoColor=00FF00&A7C7E7=00FF00)](https://www.offsec.com/courses/pen-200/)
+[![OSED](https://img.shields.io/badge/OSED-%23000000.svg?style=for-the-badge&logo=OSED&logoColor=00FF00&A7C7E7=00FF00)](https://www.offsec.com/courses/exp-301/)
 
 ### Personal ID
 
