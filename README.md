@@ -1,6 +1,6 @@
 # :mortar_board: About Me
 # 🙏 नमस्ते!,
-I'm Bharat Raghuvanshi!
+# I'm Bharat Raghuvanshi!
 
 - :mortar_board: Computer Science Student at VIT Bhopal University
 - :rocket: Python Enthusiast |🐧 Linux Lover
