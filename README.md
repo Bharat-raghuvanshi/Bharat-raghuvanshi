@@ -70,7 +70,7 @@
 - Networking Basics
 
 ### Current Focus 🎯
-I'm currently focusing on expanding my knowledge in cybersecurity, including learning about various cyber threats, ethical hacking techniques, and Expliot Development.
+I'm currently focusing on expanding my knowledge in cybersecurity, including learning about various cyber threats, ethical hacking techniques, and Exploit Development.
 
 [![CEH](https://img.shields.io/badge/CEH-%23000000.svg?style=for-the-badge&logo=CEH&logoColor=00FF00&A7C7E7=00FF00)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 [![OSCP](https://img.shields.io/badge/OSCP-%23000000.svg?style=for-the-badge&logo=Offensive%20Security&logoColor=00FF00&A7C7E7=00FF00)](https://www.offensive-security.com)
