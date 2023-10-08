@@ -53,7 +53,7 @@
 
 ### **Bharat Raghuvanshi**
 
-- 🚀 Aka @N16h7h4wk
+- 🚀 Aka $N16h7h4wk
 - 👨‍🎓 Computer Science Student at VIT Bhopal University, Madhya Pradesh
 - 🐍 Python Enthusiast | 🐧 Linux Lover
 - 📍 Currently pursuing Integrated M.Tech 2nd year (Specialization in Cybersecurity)
