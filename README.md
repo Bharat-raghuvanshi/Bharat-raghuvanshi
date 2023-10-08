@@ -60,9 +60,10 @@
 - 🖥️ Comfortable with Debian-based Linux distros
 - 🎯 Interested in Exploit Development
 
-### Certifications
+### Certifications {Courses}
 - [Introduction to Cybersecurity Tools and Cyber Attacks](https://coursera.org/share/b5a8049100bff25529ab13e67f83affd) - Coursera
-
+### Certifications {Industry Standard}
+- Currently working towards obtaining relevant certifications.
 ### Skills 🚀{Learning}
 - Python
 - Linux Administration
