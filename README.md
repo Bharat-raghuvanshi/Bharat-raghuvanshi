@@ -58,7 +58,7 @@
 - 🐍 Python Enthusiast | 🐧 Linux Lover
 - 📍 Currently pursuing Integrated M.Tech 2nd year (Specialization in Cybersecurity)
 - 🖥️ Comfortable with Debian-based Linux distros
-- 🎯 Interested in Cyber Security
+- 🎯 Interested in Exploit Development
 
 ### Certifications
 - [Introduction to Cybersecurity Tools and Cyber Attacks](https://coursera.org/share/b5a8049100bff25529ab13e67f83affd) - Coursera
