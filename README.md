@@ -22,9 +22,8 @@
 
 ### Tools and Technologies {learning}
 
-
-![Git](https://camo.githubusercontent.com/ec0d32e85caf4723d5182a75338c89f85a2c3679aed0c46c9ee9fd1c8dc2a316/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
-![GitHub](https://camo.githubusercontent.com/f6d50128cb007f85916b7a899da5d94f654dce35a37331c8d28573aef46f4274/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)
+[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -33,25 +32,26 @@
 
 ### Development and Environment
 
-![Jupyter Notebook](https://camo.githubusercontent.com/75251632e9c74475dfb9c8a4f17b34792226384fe87ff456cb8603b4e94a15bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722d4633373632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4a757079746572266c6f676f436f6c6f723d7768697465)
-![VS Code](https://camo.githubusercontent.com/d8d68d0ff3e31f17649ff3a86c30f95f90578a16c55e2cc34f09566a9083d0b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c53747564696f436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
 
 
 ### Linux Distributions
 
-
-![Debian](https://camo.githubusercontent.com/94c5a32b53c1771bd1a163fe0523aee22b624e1d613ec984e52686cda1cdb2bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f44656269616e2d4437304135333f7374796c653d666f722d7468652d6261646765266c6f676f3d64656269616e266c6f676f436f6c6f723d7768697465)
-![Linux](https://camo.githubusercontent.com/878e15b4f7576e844856dc60d855ba0587d3d2bc56211fbe69734ebccb13b068/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b)
-![Ubuntu](https://camo.githubusercontent.com/d6de31463470dd4540e7ece7849e6d38d423825f113ea4ae639f4dcfd0392d82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d4539353432303f7374796c653d666f722d7468652d6261646765266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465)
+[![Debian](https://img.shields.io/badge/Debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
+[![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Parrot Security OS](https://img.shields.io/badge/Parrot-33aacc?style=for-the-badge&logo=parrot-security&logoColor=white)
 
 ### Active on
 
-[![HackerOne](https://img.shields.io/badge/HackerOne-%23000000.svg?style=for-the-badge&logo=HackerOne&logoColor=00FF00)](https://www.hackerone.com/n16h7h4wk_07)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23000000.svg?style=for-the-badge&logo=TryHackMe&logoColor=00FF00)](https://www.tryhackme.com)
-[![PicoCTF](https://img.shields.io/badge/PicoCTF-%23000000.svg?style=for-the-badge&logo=PicoCTF&logoColor=00FF00)](https://picoctf.com)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-%23000000.svg?style=for-the-badge&logo=Bugcrowd&logoColor=00FF00)](https://www.bugcrowd.com)
+
+[![HackerOne](https://img.shields.io/badge/HackerOne-%23000000.svg?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%232D2D2D.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
+[![picoCTF](https://img.shields.io/badge/picoCTF-%231A4D8B.svg?style=for-the-badge&logo=picoctf&logoColor=white)](https://picoctf.com/)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-%23323131.svg?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://www.bugcrowd.com/)
 
 ### **Bharat Raghuvanshi**
 
